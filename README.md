@@ -7,11 +7,6 @@
 
 <br>
 
-</a>
-</td>
-    </td>
-  </tr>
-</table>
 <br>
 <br>
 <table width="100%">
@@ -25,8 +20,7 @@
           alt="Estatísticas do GitHub" 
         />
       </a>
-    </td>
-    
+    </td>     
    <td width="50%" valign="top">
   <h3 align="left">Linguagens Mais Usadas</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -36,5 +30,8 @@
       alt="Linguagens Mais Usadas" 
     />
   </a>
-  </tr>
-</table>
+    </td>   </tr> </table> ```
+
+Faça essa substituição e salve (faça o "commit") o arquivo. As suas estatísticas devem reaparecer!
+
+Quer ajuda para adicionar novamente as barras RGB (divisores) que tínhamos colocado antes?
