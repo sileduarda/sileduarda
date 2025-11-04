@@ -11,10 +11,6 @@
 </td>
     </td>
   </tr>
-
-  <p align="center">
-  <img src="rgbar.gif" alt="Barra RGB" width="100%">
-</p>
 </table>
 <br>
 <br>
