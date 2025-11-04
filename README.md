@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img src="barra-rgb.gif" alt="Barra RGB" width="100%">
+  <img src="https://raw.githubusercontent.com/sileduarda/sileduarda/main/rgbar.gif" alt="Barra RGB" width="100%">
 </p>
 <br>
 
@@ -19,27 +19,27 @@
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
           align="left" 
-          src="https://github-readme-stats.vercel.app/api?username=sileduarda&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&title_color=58a6ff" 
+          src="https://github-github-readme-stats.vercel.app/api?username=sileduarda&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&title_color=58a6ff" 
           alt="Estatísticas do GitHub" 
         />
       </a>
     </td>
     
     <td width="50%" valign="top">
-      <h3 align="left">Linguagens Mais Usadas</h3>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img 
-          align="left" 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sileduarda&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&langs_count=8" 
-          alt="Linguagens Mais Usadas" 
-        />
-      </a>
-    </td>
+      <h3 align="left">Linguagens Mais Usadas</h3>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img 
+          align="left" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sileduarda&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&langs_count=8" 
+          alt="Linguagens Mais Usadas" 
+        />
+      </a>
+    </td>
   </tr>
 </table>
 
 <br>
 <p align="center">
-  <img src="barra-rgb.gif" alt="Barra RGB" width="100%">
+  <img src="https://raw.githubusercontent.com/sileduarda/sileduarda/main/rgbar.gif" alt="Barra RGB" width="100%">
 </p>
 <br>
