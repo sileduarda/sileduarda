@@ -7,6 +7,17 @@
 
 <br>
 
+</a>
+</td>
+    </td>
+  </tr>
+</table>
+
+<br>
+<p align="center">
+  <img src="Gif Para Fanfic Linha Colorida.gif" alt="Barra RGB" width="100%">
+</p>
+<br>
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
