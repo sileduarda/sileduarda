@@ -1,8 +1,6 @@
 <p align="left">
-  <a href="httpsPOST://SEU-LINK-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LINK-INCONE-blue?style=for-the-badge&logo=chainlink" alt="Link Icon">
+  <a href="https://www.linkedin.com/in/eduardasouzoo" target="_blank">
   </a>
-  <img src="https://img.shields.io/badge/Digital_Craftsman-Developer%2FFilmmaker%2FCreator-blueviolet?style=for-the-badge" alt="Digital Craftsman">
 </p>
 
 <h2 align="center"> Data Scientist • Data Analyst • Statistical Consultant</h2>
