@@ -2,8 +2,13 @@
 
 <br>
 
+<p align="center">
+  <img src="lineBar.png" alt="divisor" width="100%">
+</p>
+<br>
 
-<table width="100%">
+<table width="100%"
+  align="center">
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">Suas Estatísticas do GitHub</h3>
@@ -27,12 +32,7 @@
     </td>
   </tr>
 </table>
-</a>
-</td>
-    </td>
-  </tr>
-</table>
 <p align="center">
-  <img src="rgbar.gif" alt="Barra RGB" width="100%">
+  <img src="lineBar.png" alt="divisor" width="100%">
 </p>
 <br>
