@@ -42,7 +42,6 @@
 <p align="center">
   <img src="lineBar.png" alt="divisor" width="100%">
 </p>
-<br>
 
 <h3 align="left">Sobre mim</h3>
 
