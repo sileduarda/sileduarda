@@ -5,7 +5,7 @@
 
 <br>
 
-<h2 align="center">Data Scientist • Data Analyst • Statistical Consultant</h2>
+<h2 align="center">Cientista de Dados • Analista de Dados • Consultora Estatística</h2>
 
 <br>
 
