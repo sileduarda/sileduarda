@@ -1,11 +1,12 @@
-<h2 align="center">Data Scientist • Data Analyst • Statistical Consultant</h2>
-
-<br>
-
 <h3 align="center">🚧 Perfil em Construção 🚧</h3>
 <p align="center">
   <img src="https://ihac.ufba.br/wp-content/uploads/2017/04/pagina-em-construcao-300x300.png" alt="Em Construção" width="150">
 </p>
+
+<br>
+
+<h2 align="center">Data Scientist • Data Analyst • Statistical Consultant</h2>
+
 <br>
 
 <p align="center">
