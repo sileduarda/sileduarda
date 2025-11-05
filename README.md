@@ -52,4 +52,14 @@
 * 💻 Minha stack principal de estudos atualmente é Python, com foco em análise de dados e machine learning.
 * 🎮 Além da tecnologia, sou apaixonada por jogos e leitura!
 ----
+<h3 align="left">Fale Comigo</h3>
 
+<p align="left">
+  <a href="mailto:sileduardazoo@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/EMAIL-9D00FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/eduardasouzoo" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LINKEDIN-9D00FF?style=for-the-badge&logo=linkedin&logoColor=white&v=1" alt="LinkedIn">
+  </a>
+</p>
