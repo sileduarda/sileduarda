@@ -51,6 +51,14 @@
 * 💻 Minha stack principal de estudos atualmente é Python, com foco em análise de dados e machine learning.
 * 🎮 Além da tecnologia, sou apaixonada por jogos e leitura!
 ----
+<h3 align="left">Minhas Stacks</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,py,r&theme=dark" />
+  </a>
+</p>
+
+--------
 <h3 align="left">Fale Comigo</h3>
 
 <p align="left">
