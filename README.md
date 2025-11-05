@@ -2,6 +2,12 @@
 
 <br>
 
+<h3 align="center">🚧 Perfil em Construção 🚧</h3>
+<p align="center">
+  <img src="https://ihac.ufba.br/wp-content/uploads/2017/04/pagina-em-construcao-300x300.png" alt="Em Construção" width="150">
+</p>
+<br>
+
 <p align="center">
   <img src="lineBar.png" alt="divisor" width="100%">
 </p>
