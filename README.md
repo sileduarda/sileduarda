@@ -54,7 +54,7 @@
 <h3 align="left">Minhas Stacks</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,py,r&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=r,py,git,github&theme=dark" />
   </a>
 </p>
 
