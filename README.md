@@ -24,7 +24,7 @@
           align="left" 
           src="https://github-readme-stats.vercel.app/api?username=sileduarda&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&title_color=58a6ff" 
           alt="Estatísticas do GitHub" 
-        />
+        />    
       </a>
     </td>
     <td width="50%" valign="top">
@@ -32,7 +32,7 @@
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
           align="left" 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sileduarda&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&langs_count=8" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sileduarda&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&cache_seconds=1800&langs_count=8" 
           alt="Linguagens Mais Usadas" 
         />
       </a>
