@@ -3,6 +3,7 @@
 <h2 align="center">Cientista de Dados • Analista de Dados • Consultora Estatística</h2>
 
 <h3 align="left">Sobre mim</h3>
+<img align="right" src="cafe.gif" width="150"/>
 
 * 👋 Olá! Meu nome é Maria Eduarda sou graduada em Zootecnia e Mestre em Biologia Animal.
 * 💡 Descobri a programação durante o mestrado e, desde então, presto consultoria em análise de dados para estudantes e pesquisadores.
