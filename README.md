@@ -2,7 +2,14 @@
 
 <h2 align="center">Cientista de Dados • Analista de Dados • Consultora Estatística</h2>
 
-<br>
+<h3 align="left">Sobre mim</h3>
+
+* 👋 Olá! Meu nome é Maria Eduarda sou graduada em Zootecnia e Mestre em Biologia Animal.
+* 💡 Descobri a programação durante o mestrado e, desde então, presto consultoria em análise de dados para estudantes e pesquisadores.
+* 🎯 Meu objetivo atual é me especializar em Ciência de Dados e Inteligência Artificial.
+* 💻 Minha stack principal de estudos atualmente é Python, com foco em análise de dados e machine learning.
+* 🎮 Além da tecnologia, sou apaixonada por jogos e leitura!
+----
 
 <p align="center">
   <img src="lineBar.png" alt="divisor" width="100%">
@@ -38,14 +45,6 @@
   <img src="lineBar.png" alt="divisor" width="100%">
 </p>
 
-<h3 align="left">Sobre mim</h3>
-
-* 👋 Olá! Meu nome é Maria Eduarda sou graduada em Zootecnia e Mestre em Biologia Animal.
-* 💡 Descobri a programação durante o mestrado e, desde então, presto consultoria em análise de dados para estudantes e pesquisadores.
-* 🎯 Meu objetivo atual é me especializar em Ciência de Dados e Inteligência Artificial.
-* 💻 Minha stack principal de estudos atualmente é Python, com foco em análise de dados e machine learning.
-* 🎮 Além da tecnologia, sou apaixonada por jogos e leitura!
-----
 <h3 align="left">Minhas Stacks</h3>
 <p align="left">
   <a href="https://skillicons.dev">
