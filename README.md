@@ -9,7 +9,7 @@
 
 👋 Oi! Eu sou Maria Eduarda, zootecnista e Mestra em Biologia Animal, apaixonada por comportamento, ciência e tecnologia.
 
-🧠 Durante o mestrado, descobri o universo da programação — e isso mudou completamente o rumo da minha carreira.
+🧠 Durante o mestrado, descobri o universo da programação e isso mudou completamente o rumo da minha carreira.
 
 📊 Hoje atuo como consultora em análise de dados, ajudando estudantes e pesquisadores a transformar seus dados em insights claros, confiáveis e bem estruturados.
 
