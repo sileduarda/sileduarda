@@ -32,7 +32,7 @@
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
           align="left" 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sileduarda&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&hide=jupyter%20notebook&langs_count=7" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sileduarda&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&hide=jupyter%20notebook&langs_count=8" 
           alt="Linguagens Mais Usadas" 
         />
       </a>
