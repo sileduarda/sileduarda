@@ -1,6 +1,6 @@
 <br>
 
-<h2 align="center">Cientista de Dados • Analista de Dados • Consultora Estatística</h2>
+<h2 align="center">Cientista de Dados • Consultora Estatística </h2> 
 
 <h3 align="left">☕ Sobre Mim</h3>
 <img align="right" src="cafe.gif" width="150"/>
