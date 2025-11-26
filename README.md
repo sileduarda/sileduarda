@@ -32,7 +32,7 @@
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
           align="left" 
-          src="https://github-readme-stats.vercel.app/api?username=sileduarda&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&title_color=58a6ff" 
+          src="https://readme-stats-swart-theta.vercel.app/api?username=sileduarda&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&title_color=58a6ff" 
           alt="Estatísticas do GitHub" 
         />    
       </a>
