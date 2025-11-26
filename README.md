@@ -28,7 +28,7 @@
   align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">Suas Estatísticas do GitHub</h3>
+      <h3 align="center">Suas Estatísticas do GitHub</h3>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
           align="left" 
@@ -37,11 +37,11 @@
         />    
       </a>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="left">Linguagens Mais Usadas</h3>
+    <td width="70%" valign="top" align="center">
+      <h3 align="center">Linguagens Mais Usadas</h3>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
-          align="left" 
+          align="center"  width = "100%"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=sileduarda&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&hide=jupyter%20notebook&langs_count=4" 
           alt="Linguagens Mais Usadas" 
         />
