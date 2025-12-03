@@ -42,7 +42,7 @@
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img
   align="center" width="100%"
-  src="https://readme-stats-swart-theta.vercel.app/api/top-langs/?username=sileduarda&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&hide=jupyter%20notebook&langs_count=3&exclude_repo=readme-stats&cache_seconds=60"
+  src="https://readme-stats-swart-theta.vercel.app/api/top-langs/?username=sileduarda&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&hide=jupyter%20notebook&langs_count=4&exclude_repo=readme-stats&cache_seconds=30"
   alt="Linguagens Mais Usadas"
         />
       </a>
