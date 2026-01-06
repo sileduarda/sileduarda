@@ -32,7 +32,7 @@
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
           align="left" 
-          src="https://readme-stats-swart-theta.vercel.app/api?username=sileduarda&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&title_color=58a6ff" 
+          src="https://readme-stats-4icq.vercel.app/api?username=sileduarda&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&title_color=58a6ff&cache_seconds=21600" 
           alt="Estatísticas do GitHub" 
         />    
       </a>
@@ -42,7 +42,7 @@
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img
   align="center" width="100%"
-  src="https://readme-stats-swart-theta.vercel.app/api/top-langs/?username=sileduarda&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&hide=jupyter%20notebook&langs_count=4&exclude_repo=readme-stats&cache_seconds=30"
+  src="https://readme-stats-4icq.vercel.app/api/top-langs/?username=sileduarda&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&hide=jupyter%20notebook&langs_count=4&exclude_repo=readme-stats&cache_seconds=21600"
   alt="Linguagens Mais Usadas"
         />
       </a>
