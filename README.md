@@ -2,22 +2,10 @@
 
 <h2 align="center">Cientista de Dados • Consultora Estatística </h2> 
 
-<h3 align="left">☕ Sobre Mim</h3>
-<img align="right" src="cafe.gif" width="150"/>
+<h3 align="left">Sobre Mim</h3>
 
-<img align="right" src="aboutme.gif" width="150"/>
 
-👋 Oi! Eu sou Maria Eduarda, zootecnista e Mestra em Biologia Animal, apaixonada por comportamento, ciência e tecnologia.
-
-🧠 Durante o mestrado, descobri o universo da programação e isso mudou completamente o rumo da minha carreira.
-
-📊 Hoje atuo como consultora em análise de dados, ajudando estudantes e pesquisadores a transformar seus dados em insights claros, confiáveis e bem estruturados.
-
-🤖 Meu foco atual é me especializar em Ciência de Dados e Inteligência Artificial, unindo estatística, programação e tomada de decisão.
-
-🐍 Minha stack principal de estudos é Python, especialmente para análise de dados, modelagem e machine learning.
-
-🎮 Quando não estou codando ou analisando dados, provavelmente estou jogando, lendo fantasia ou explorando algum novo projeto criativo.
+👋 Oi, muito prazer! Eu sou Maria Eduarda, Analista de Dados, apaixonada por ciência e tecnologia. Sou formada em Zootecnia e possuo mestrado em Biologia Animal. Durante o mestrado, descobri o universo dos dados e isso mudou completamente o rumo da minha carreira. Hoje atuo como consultora em análise de dados, ajudando estudantes e pesquisadores a transformar seus dados em insights claros, confiáveis e bem estruturados. Meu foco atual é me especializar em Ciência de Dados e Inteligência Artificial, unindo estatística, programação e tomada de decisão, por isso a minha stack principal de estudos é Python, especialmente para análise de dados, modelagem e machine learning. Uma curiosidade sobre mim é que quando não estou estudando ou analisando dados, provavelmente estou jogando, lendo fantasia ou explorando algum novo projeto criativo :)
 
 <p align="center">
   <img src="lineBar.png" alt="divisor" width="100%">
